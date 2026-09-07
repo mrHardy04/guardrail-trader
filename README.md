@@ -15,3 +15,6 @@ How to run:
 2. Start the Binance MCP server in .vscode/mcp.json
 3. Open Copilot Chat in Agent mode
 4. Paste the prompt from DEMO.md
+
+Also includes a guarded trading workflow in TRADE.md.
+The agent can prepare a tiny order, but it waits for yes.
